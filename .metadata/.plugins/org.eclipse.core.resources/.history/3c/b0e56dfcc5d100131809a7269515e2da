@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="br.com.direct.velue.company.view.DirectValueAppSplashScreen"
+            android:name="br.com.direct.velue.company.view.DirectValueApp"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

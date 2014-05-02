@@ -1,0 +1,28 @@
+2014-05-02 02:54:24,989 [Worker-50] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-02 02:54:25,680 [Worker-50] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-02 02:55:36,201 [Worker-50] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Desenv\workspace\project\direct-value-company\direct-value-app\pom.xml
+2014-05-02 02:55:38,338 [Finalizer] WARN  c.ning.http.client.AsyncHttpClient - AsyncHttpClient.close() hasn't been invoked, which may produce file descriptor leaks
+2014-05-02 02:55:43,041 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: br.com.direct.value.company:direct-value-app:0.0.1-SNAPSHOT @ D:\Desenv\workspace\project\direct-value-company\direct-value-app\pom.xml.
+2014-05-02 02:55:43,941 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /direct-value-app/src/main/java
+2014-05-02 02:55:43,941 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /direct-value-app/src/test/java
+2014-05-02 02:55:44,143 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: br.com.direct.value.company:direct-value-app:0.0.1-SNAPSHOT @ D:\Desenv\workspace\project\direct-value-company\direct-value-app\pom.xml.
+2014-05-02 02:55:45,444 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /direct-value-app/src/main/java
+2014-05-02 02:55:45,444 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /direct-value-app/src/test/java
+2014-05-02 02:55:47,426 [Worker-50] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 11 sec
+2014-05-02 02:55:50,747 [Worker-64] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: br.com.direct.value.company:direct-value-app:0.0.1-SNAPSHOT @ D:\Desenv\workspace\project\direct-value-company\direct-value-app\pom.xml.
+2014-05-02 02:55:51,105 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-02 02:55:51,105 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Desenv\workspace\project\direct-value-company\direct-value-app\src\main\resources
+2014-05-02 02:55:51,108 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-02 02:55:51,109 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Desenv\workspace\project\direct-value-company\direct-value-app\src\test\resources
+2014-05-02 02:55:52,321 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-02 02:55:52,322 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Desenv\workspace\project\direct-value-company\direct-value-app\src\main\resources
+2014-05-02 02:55:52,322 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-02 02:55:52,323 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Desenv\workspace\project\direct-value-company\direct-value-app\src\test\resources
+2014-05-02 02:55:53,428 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-02 02:55:53,428 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Desenv\workspace\project\direct-value-company\direct-value-app\src\main\resources
+2014-05-02 02:55:53,429 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-02 02:55:53,430 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Desenv\workspace\project\direct-value-company\direct-value-app\src\test\resources
+2014-05-02 02:55:54,513 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-02 02:55:54,513 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Desenv\workspace\project\direct-value-company\direct-value-app\src\main\resources
+2014-05-02 02:55:54,514 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-02 02:55:54,515 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Desenv\workspace\project\direct-value-company\direct-value-app\src\test\resources
